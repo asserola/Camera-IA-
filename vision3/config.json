@@ -1,0 +1,14 @@
+{
+    "detection_confidence": 0.6,
+    "max_unknown_faces": 3,
+    "email_alerts": false,
+    "sound_alerts": true,
+    "auto_learning": true,
+    "admin_password": "cyber2024",
+    "update_check_interval": 3600,
+    "current_theme": "Dark Neon",
+    "update_urls": [
+        "http://localhost:8000/updates",
+        "https://your-update-server.com/updates"
+    ]
+}

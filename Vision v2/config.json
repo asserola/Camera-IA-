@@ -1,0 +1,14 @@
+{
+    "detection_confidence": 0.6,
+    "max_unknown_faces": 3,
+    "email_alerts": true,
+    "sound_alerts": true,
+    "auto_learning": true,
+    "admin_password": "cyber2024",
+    "update_check_interval": 3600,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "votre.email@gmail.com",
+    "sender_password": "votre_mot_de_passe_app",
+    "receiver_email": "admin@votreentreprise.com"
+}
