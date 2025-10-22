@@ -3,7 +3,7 @@ face-recognition
 opencv-python
 pillow
 numpy
-
+ 
 
 
 Fonctionnalités principales
