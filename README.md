@@ -1,3 +1,11 @@
+
+face-recognition
+opencv-python
+pillow
+numpy
+
+
+
 Fonctionnalités principales
 🎯 Caractéristiques professionnelles :
 Interface graphique complète avec Tkinter
